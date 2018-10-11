@@ -1,0 +1,30 @@
+
+.card_header h2{
+	font-size: 34px;
+}
+
+.user-list__item {
+	display: flex;
+	width: 250px;
+	justify-content: space-between;
+	margin-top: 30px;
+}
+.user-list__avatar{
+	width: 100px;
+	height: 100px;
+	background-size: cover;
+	border-radius: 100%;
+}
+.user-list__type{
+	margin-bottom: 50px;
+}
+.user-list__id span{
+	color: white;
+	font-size: 18px;
+}
+.user-list__id {
+	font-size: 12px;
+}
+.user-list__name{
+	margin-bottom: 5px;
+}
